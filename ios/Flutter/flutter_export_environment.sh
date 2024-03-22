@@ -1,9 +1,9 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\src\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\sadab\Documents\projects\Toughest"
+export "FLUTTER_ROOT=/Users/loitran/development/flutter_sdk_3.13.9/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/loitran/AndroidStudioProjects/Toughest"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=lib\main.dart"
+export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=2.0.2"
 export "FLUTTER_BUILD_NUMBER=4"
